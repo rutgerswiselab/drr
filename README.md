@@ -1,5 +1,5 @@
 # Personalized Re-ranking for Recommendation
-code for the paper "Personalized Re-ranking for Recommendation", RecSys 2019.
+Code for the paper "Personalized Re-ranking for Recommendation", RecSys 2019.
 
 
 @inproceedings{pei2019personalized,
